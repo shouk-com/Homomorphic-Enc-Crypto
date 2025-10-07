@@ -15,7 +15,7 @@ This project contains two main Jupyter notebooks:
 - Visualization of CKKS on a sample data object*
 - Shows image array before encryption and after.
 
-<sub><sup> * Actuall CKKS object varies</sup></sub>
+<sub><sup> * Actual CKKS object varies</sup></sub>
 ---
 
 **Data Location:**
